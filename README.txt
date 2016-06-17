@@ -1,1 +1,2 @@
-nothing to read
+I have made a simple Pokedex app which shows some info of around 20 pokemon.I am just a beginner in android development and I have lot yet to learn.
+The pokemon you can search are-Arceus,Darkrai,Giratina,Pikachu,Samurott,Sceptile,Charizard and some more :)
